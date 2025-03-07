@@ -5,7 +5,7 @@ Expense 360 is a MERN based personal finance management application which helps 
 Users can input the login Credentials (Email & Password) for authentication. Expense Transactions includes inputs such as date, transaction name, category (e.g., Entertainment, Groceries, Transport, Dining, Shopping, etc.), amount, and account Details (Debit & Credit Cards linked to users).
 
 ## Features:
-Item 1 User Authentication & Dashboard - Secure Login & Signup system with authentication, dashboard displaying an overview of expenses.Transactions & Categorization 
+- ** User Authentication & Dashboard  ** - Secure Login & Signup system with authentication, dashboard displaying an overview of expenses.Transactions & Categorization 
 Transactions & Categorization -  Add, Update, and Delete transactions,transactions are categorized for easy tracking.
 Graphical Analysis & Reports - charts displaying spending trends and downloadable time-frame transactions
 Account Management - Users can manage multiple accounts, including Debit Cards, Credit Cards, Linked Bank Accounts
